@@ -1,0 +1,10 @@
+1. Crie um repositório PÚBLICO no GitHub.
+2. Envie todos os arquivos HTML da pasta para a RAIZ do repositório (não envie apenas o ZIP).
+3. Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Copie o endereço do site exibido pelo GitHub Pages.
+5. No LINKS_PARA_ENVIAR.txt, substitua ENDERECO_DO_SITE pelo endereço do site.
+6. Envie cada link somente ao participante correspondente.
+
+ATENÇÃO: GitHub Pages publica arquivos acessíveis publicamente. Tokens longos dificultam adivinhar links, mas não há autenticação nem sigilo forte. Quem administra o repositório pode ler os resultados no HTML. Não altere os arquivos após começar o sorteio.
+
+Os arquivos individuais agora começam com o nome de cada participante, seguido de um identificador exclusivo. Envie cada link somente ao participante correspondente.
